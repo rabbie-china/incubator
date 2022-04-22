@@ -43,6 +43,10 @@ USB加湿器电路模块<br>
 ARDUINO UNO<br>
 ![散热器风扇](https://bbs.qn.img-space.com/202204/22/b10ec5dd32e3def170fa0a85c8274e89.jpg "散热器风扇")<br>
 散热器风扇，用的电脑机箱风扇<br>
+![开始孵化鸟蛋](https://bbs.qn.img-space.com/202204/22/de8593e98c711521a8c8902376fdc901.jpg "开始孵化鸟蛋")<br>
+开始孵化鸟蛋<br>
+![正在孵化的鸟蛋](https://bbs.qn.img-space.com/202204/22/d97d95a43fd4d931d52994127beef651.jpg "正在孵化的鸟蛋")<br>
+正在孵化的鸟蛋<br>
 
 # 代码解读
 保留，这里放重要代码解读<br>
