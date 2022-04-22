@@ -31,6 +31,18 @@ OLED显示器,温度湿度显示器<br>
 USB加湿器<br>
 ![加热设备](https://bbs.qn.img-space.com/202204/22/4224ff3847c096f4e2e93fe89ebb8047.jpg "加热设备")<br>
 自制的加热设备，内部用了两块50瓦的电加热片+电脑CPU散热器+CPU风扇制作而成<br>
+![照明设备](https://bbs.qn.img-space.com/202204/22/98103b6604b96f45241d6e8126d6c7ef.jpg "LED灯")<br>
+照明设备LED灯<br>
+![MOS开关和直流降压模块](https://bbs.qn.img-space.com/202204/22/1972c00a0c35ac17bb74044827f52996.jpg "MOS开关和直流降压模块")<br>
+MOS开关和直流降压模块<br>
+![温湿度传感器](https://bbs.qn.img-space.com/202204/22/1a6b75bedbc41d59408625081a97e1c9.jpg "SHT20模块")<br>
+温湿度传感器SHT20模块<br>
+![USB加湿器电路模块](https://bbs.qn.img-space.com/202204/22/47971d3fe7dbd0c80ab22d4ece6c2d32.jpg "USB加湿器电路模块")<br>
+USB加湿器电路模块<br>
+![ARDUINO UNO](https://bbs.qn.img-space.com/202204/22/292e69fc4b3438181904b1b3d6dcd6b9.jpg "ARDUINO UNO")<br>
+ARDUINO UNO<br>
+![散热器风扇](https://bbs.qn.img-space.com/202204/22/b10ec5dd32e3def170fa0a85c8274e89.jpg "散热器风扇")<br>
+散热器风扇，用的电脑机箱风扇<br>
 
 # 代码解读
 保留，这里放重要代码解读<br>
