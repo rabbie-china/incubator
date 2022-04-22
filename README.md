@@ -22,7 +22,16 @@ CPU散热片|散热片|1|把散热片的热量散发到恒温箱空气中
 液晶显示器|0.96寸OLED显示屏|1|显示温度、湿度、孵化时间和孵化状态
 # 设备安装解读
 ![孵化箱宽度40CM](https://bbs.qn.img-space.com/202204/22/5141f1b3db25a5f23638c501cc8dcb88.jpg "孵化箱宽度40CM,用宠物保温箱改造的")<br>
+孵化箱宽度40CM,用宠物保温箱改造的<br>
 ![温度湿度显示器](https://bbs.qn.img-space.com/202204/22/41a71e71e6e0b5b20a19e47a0d2a2b02.jpg "OLED显示器")<br>
+OLED显示器,温度湿度显示器<br>
+![箱子内部设备](https://bbs.qn.img-space.com/202204/22/fcf6b68d3456969794699625b5954c72.jpg "箱子内部设备")<br>
+箱子内部设备,所有设备都安装在箱顶<br>
+![USB加湿器](https://bbs.qn.img-space.com/202204/22/c9fbf892bc26336f536796ee5b3e68c5.jpg "USB加湿器")<br>
+USB加湿器<br>
+![加热设备](https://bbs.qn.img-space.com/202204/22/4224ff3847c096f4e2e93fe89ebb8047.jpg "加热设备")<br>
+自制的加热设备，内部用了两块50瓦的电加热片+电脑CPU散热器+CPU风扇制作而成<br>
+
 # 代码解读
 保留，这里放重要代码解读<br>
 `这里是演示代码`<br>
